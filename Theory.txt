@@ -1,0 +1,9 @@
+Tag= starting<> and closing </>
+html tag= <html> </html>
+header tag= <head> </head>
+Title tag= <title> </title>
+Body tag= <body> </body>
+Paragraph text= <p> </p>
+Bold text= <b> </b>
+Break line= <br>
+Image tage= <img src="file name">
